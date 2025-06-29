@@ -1,0 +1,11 @@
+export { default as Welcome } from './Welcome';
+export { default as Login } from './Login';
+export { default as Signup } from './Signup';
+export { default as CompanyIcon } from './CompanyIcon';
+export { default as Dashboard } from './Dashboard';
+export { default as Services } from './Services';
+export { default as TrackOrder } from './TrackOrder';
+export { default as OrderFuel } from './OrderFuel';
+export { default as BookMechanic } from './BookMechanic';
+export { default as ServiceHistory } from './ServiceHistory';
+export { default as WhyChoose } from './WhyChoose'; 
